@@ -6,9 +6,9 @@ Here, "Kristall" transcends its literal meaning of transparency and crystalline 
 
 Engaging with this artistic exploration, we are beckoned to delve into the human soul, to traverse the most veiled and unexplored facets of our cognition. "Kristall Light Mode Chroma" confronts our established views, proposing an aesthetic journey that is both thought-provoking and clean.
 
-## Kristall Light Mode Chroma Theme | CSS
+## Kristall Light Mode Chroma Theme | Python
 
-![Kristall Light Mode Chroma Theme | CSS](./assets/screenshot-01.png)
+![Kristall Light Mode Chroma Theme | Python](./assets/screenshot-01.png)
 
 ### 1. Manual Install
 
