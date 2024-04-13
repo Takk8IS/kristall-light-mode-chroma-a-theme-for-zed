@@ -42,12 +42,7 @@ To contribute to public and social projects focused on research and artificial i
 
 PhilArchive: https://philpapers.org/rec/CRTBCI
 
--   USDT, AGIX, FET, OM, IMX, SHIB, or ETH (ERC20) `0xf62eb3b9abcd24cf52ccef748bc2b1dfbbf1fe74`
--   SOL (SOL) `EcYgSJtZvrQeYYue7Nh3K5d82V8cGHdJTZaevrkwtsrF`
--   MATIC (Polygon) `0xf62eb3b9abcd24cf52ccef748bc2b1dfbbf1fe74`
--   NEAR (Near) `0525fd020a2b518b03759671252c7d89c7ff70f6426c278f48d95c0f6ad95353`
--   DOGE (Doge) `D6ryr9qX7boJcjkd483Mmzbe3GDHVkTErE`
--   BTC (BTC) `39RBEMp7GQ1Zjykswbt1Z4BSNJH3VGCKAc`
+-   $USDT (TRC-20): TP6zpvjt2ZNGfWKPevfp65ZrcbKMWSQXDi
 
 ## Takk™ Innovate Studio
 
